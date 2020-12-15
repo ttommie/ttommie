@@ -46,8 +46,11 @@
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
 
 <br />
+<br />
+<br />
 
  Future Intrest
+
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
 
