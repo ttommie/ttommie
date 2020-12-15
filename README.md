@@ -29,7 +29,7 @@
 <br />
 <br />
 
-\*\* Future Intrest
+ Future Intrest
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][c++]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />][lua]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
