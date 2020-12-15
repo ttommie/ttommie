@@ -9,13 +9,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tomei.vip" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
-[<img align="left" alt="tomei.vip" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
+[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 <br>
 ### Programming Languages 💻
 <br>
-** Utilizing or Learning
-<br>
+- Utilizing or Learning
 
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
