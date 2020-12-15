@@ -1,6 +1,6 @@
 # Hello , I'm Tommie 🌍
 
-## About me
+### About me
 
 - Currently a Second Year College Student 📚
 - Working on a Degree Towards Computer Programming 🖥️
