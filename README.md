@@ -62,6 +62,11 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ttommie&show_icons=true&hide_border=true">
+
+
 [website]: https://www.tomei.vip/
 [steam]: https://steamcommunity.com/id/whosoever
 [html]: https://github.com/topics/html
