@@ -25,14 +25,19 @@
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />][javascript]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />][c#]
 
+<br />
+
 \*\* Future Intrest
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][c++]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />][lua]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 
+<br />
+
 ### Tools 🧰
 
-\*\* Most Used Tools
+ Most Used Tools
+
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />][windows]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />][vsc]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />][vs]
@@ -40,12 +45,14 @@
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
 
-\*\* Future Intrest
+<br />
+
+ Future Intrest
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 [<img align="left" alt="tomei.vip" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
 
-<br>
-<br>
+<br />
+<br />
 
 [website]: https://www.tomei.vip/
 [steam]: https://steamcommunity.com/id/whosoever
