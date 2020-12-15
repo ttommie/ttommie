@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
+[<img align="left" alt="tomei.vip" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="tomei.vip" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
 <br />
 <br />
@@ -19,12 +19,12 @@
 
  Utilizing or Learning
 
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][sql]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />][javascript]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />][c#]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][sql]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />][javascript]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />][c#]
 
 <br />
 <br />
