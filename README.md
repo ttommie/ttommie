@@ -17,7 +17,7 @@
 
 ### Programming Languages 💻
 
- Utilizing or Learning
+ \-Utilizing or Learning\-
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
@@ -28,8 +28,9 @@
 
 <br />
 <br />
+<br />
 
- Future Intrest
+ \-Future Intrest\-
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][c++]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />][lua]
@@ -40,7 +41,7 @@
 
 ### Tools 🔧
 
- Most Used Tools
+ \-Most Used Tools\-
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />][windows]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />][vsc]
@@ -51,8 +52,9 @@
 
 <br />
 <br />
+<br />
 
- Future Intrest
+ \-Future Intrest\-
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
