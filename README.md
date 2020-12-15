@@ -31,9 +31,9 @@
 
  Future Intrest
 
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][c++]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />][lua]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][c++]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />][lua]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 
 <br />
 <br />
@@ -42,20 +42,20 @@
 
  Most Used Tools
 
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />][windows]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />][vsc]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />][vs]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notepadplusplus.svg" />][notepad++]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />][windows]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />][vsc]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />][vs]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notepadplusplus.svg" />][notepad++]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
 
 <br />
 <br />
 
  Future Intrest
 
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
-[<img align="left" alt="tomei.vip" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
 
 <br />
 <br />
