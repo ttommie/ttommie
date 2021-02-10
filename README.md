@@ -5,7 +5,7 @@
 - Currently a Second Year College Student 📚
 - Working on a Degree Towards Computer Programming 🖥️
 - I'm Nineteen Years Old 🔞
-- Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
+- Owner of [Lucid Gaming](https://lucid-gaming.net/portal/) 💙
 
 ### Connect with me:
 
