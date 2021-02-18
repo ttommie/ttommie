@@ -60,7 +60,6 @@
 
  \-Future Interest\-
 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
 
 <br />
