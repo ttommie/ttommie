@@ -2,10 +2,8 @@
 
 ### About me
 
-- Currently a Second Year College Student 📚
-- Working on a Degree Towards Computer Programming 🖥️
-- I'm Nineteen Years Old 🔞
-- Owner of [Lucid Gaming](https://lucid-gaming.net/portal/) 💙
+- Junior Software Developer 📚
+- Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
 ### Connect with me:
 
@@ -19,7 +17,7 @@
 
 ### Programming Languages 💻
 
- \-Utilizing or Learning\-
+\-Utilizing or Learning\-
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
@@ -30,39 +28,21 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" />][c++]
 
 <br />
-<br />
-<br />
-
- \-Future Interest\-
- 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />][lua]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
-
-<br />
-<br />
 
 ---
 
 ### Tools 🔧
 
- \-Most Used Tools\-
+\-Most Used Tools\-
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" />][windows]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />][vsc]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />][vs]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notepadplusplus.svg" />][notepad++]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 
-<br />
-<br />
-<br />
-
- \-Future Interest\-
-
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pycharm.svg" />][pycharm]
-
-<br />
 <br />
 
 ---
@@ -70,9 +50,8 @@
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 
-
 [website]: https://www.tomei.vip/
-[steam]: https://steamcommunity.com/id/fyce
+[steam]: https://steamcommunity.com/id/whosoever
 [html]: https://github.com/topics/html
 [css]: https://github.com/topics/css
 [php]: https://github.com/topics/php
