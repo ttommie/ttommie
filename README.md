@@ -43,7 +43,6 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />][vs]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notepadplusplus.svg" />][notepad++]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 
 <br />
@@ -62,7 +61,6 @@
 [sql]: https://github.com/topics/sql
 [javascript]: https://github.com/topics/javascript
 [c#]: https://github.com/topics/csharp
-[c++]: https://github.com/topics/cpp
 [lua]: https://github.com/topics/lua
 [python]: https://github.com/topics/python
 [windows]: https://www.microsoft.com/en-us/windows
@@ -70,6 +68,5 @@
 [vs]: https://visualstudio.microsoft.com/
 [notepad++]: https://notepad-plus-plus.org/downloads/
 [firefox]: https://www.mozilla.org/en-US/firefox/developer/
-[trello]: https://trello.com/en-US
 [linux]: https://www.linux.org/
 [pycharm]: https://www.jetbrains.com/pycharm/
