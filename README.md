@@ -45,9 +45,6 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
-<br />
-<br />
-
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 
