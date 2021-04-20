@@ -3,6 +3,7 @@
 ### About me
 
 - Junior Software Developer 📚
+- I'm Nineteen Years Old 🔞
 - Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
 ### Connect with me:
