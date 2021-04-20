@@ -6,6 +6,14 @@
 - I'm Nineteen Years Old 🔞
 - Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
+### Connect with me:
+
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
+
+<br />
+<br />
+
 ### Programming Languages 💻
 
 \-Utilizing or Learning\-
@@ -34,16 +42,6 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" />][trello]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
-
-<br />
-<br />
-
----
-
-### Connect with me:
-
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
 <br />
 <br />
