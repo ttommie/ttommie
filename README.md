@@ -6,9 +6,7 @@
 - I'm Nineteen Years Old 🔞
 - Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
-### Connect with me:
-
-[<img align="left" alt="tomei.vip" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+### Connect with me: [<img align="left" alt="tomei.vip" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
 [<img align="left" alt="tomei.vip" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
 <br />
