@@ -16,7 +16,7 @@
 
 ---
 
-<center>### Programming Languages 💻</center>
+### <center>Programming Languages 💻</center>
 
 **Using or Learning**
 
