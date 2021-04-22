@@ -53,6 +53,18 @@
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 
+<br>
+<br>
+
+---
+
+##### 2021 Goals
+  - [ ] Finish Learning Python
+  - [ ] CSS Skills 
+  - [ ] Javascript Skills
+  - [ ] Start & Finish 2 Projects **Any Language**
+  - [ ] Become More Aware in Front-End Development 
+
 [website]: https://www.tomei.vip/
 [steam]: https://steamcommunity.com/id/whosoever
 [html]: https://github.com/topics/html
