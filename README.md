@@ -48,8 +48,6 @@
 
 ### 2021 Goals
 
-<br>
-
   - [ ] Finish Learning Python
   - [ ] CSS Skills 
   - [ ] Javascript Skills
