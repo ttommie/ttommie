@@ -54,7 +54,7 @@
 
 <br>
 
-  - [ ] Finish Learning Python
+  - [x] Finish Learning Python
   - [ ] CSS Skills 
   - [ ] Javascript Skills
   - [ ] Start & Finish 2 Projects **Any Language**
