@@ -6,7 +6,7 @@
 - I'm Nineteen Years Old 🔞
 - Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
-### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+### Connect with me:
 
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
