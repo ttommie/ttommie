@@ -56,6 +56,7 @@
   - [ ] Start & Finish 2 Projects **Any Language**
   - [ ] Become More Aware in Front-End Development 
   - [ ] Learn Lua
+  - [ ] Create A Website Portfolio 
 
 ---
 
