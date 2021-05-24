@@ -1,6 +1,6 @@
 <img align="center" width="2000px" src="https://cdn.discordapp.com/attachments/765280429511016519/846192162538389514/cover.png" />
 
-### Hello , I'm Tommie <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello , I'm Tommie <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### About me
 
