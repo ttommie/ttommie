@@ -28,6 +28,7 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />][javascript]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />][c#]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/lua.svg" />][lua]
 
 <br />
 <br />
@@ -82,4 +83,4 @@
 [notepad++]: https://notepad-plus-plus.org/downloads/
 [firefox]: https://www.mozilla.org/en-US/firefox/developer/
 [linux]: https://www.linux.org/
-[pycharm]: https://www.jetbrains.com/pycharm/
+[lua]: https://github.com/topics/lua
