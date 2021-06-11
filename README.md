@@ -5,7 +5,7 @@
 ### About me
 
 - Student Software Developer 📚
-- I'm Nineteen Years Old 🔞
+- I'm Twenty Years Old 🔞
 - Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
 ### Connect with me:
