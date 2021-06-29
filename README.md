@@ -57,7 +57,7 @@
   - [ ] CSS Skills 
   - [ ] Javascript Skills
   - [ ] Start & Finish 2 Projects **Any Language**
-  - [ ] Become More Aware in Front-End Development 
+  - [x] Become More Aware in Front-End Development 
   - [ ] Create A Website Portfolio 
   - [ ] Learn Lua
 
