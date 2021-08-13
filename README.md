@@ -60,6 +60,7 @@
   - [x] Become More Aware in Front-End Development 
   - [ ] Create A Website Portfolio 
   - [ ] Learn Lua
+  - [ ] Learn C++
 
 ---
 
