@@ -5,6 +5,7 @@
 ### About me
 
 - Student Software Developer 📚
+- Current Intern @ Classical Conversations👨‍💻
 - I'm 20 Years Old 🧓
 - Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
 
