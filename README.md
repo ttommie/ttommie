@@ -52,14 +52,12 @@
 
 ---
 
-### 2021 Goals
+### Goals
 
   - [ ] Finish Learning Python
-  - [x] CSS Skills 
-  - [ ] Javascript Skills
-  - [ ] Start & Finish 2 Projects **Any Language**
-  - [x] Become More Aware in Front-End Development 
+  - [x] Strengthen CSS Skills
   - [ ] Create A Website Portfolio 
+  - [ ] Learn Javascript
   - [ ] Learn Lua
   - [ ] Learn C++
 
