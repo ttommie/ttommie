@@ -49,9 +49,13 @@
 
 <br>
 <br>
+
+
 ---
 
   <img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />
+  
+  
 ### Goals
 
   - [ ] Finish Learning Python
