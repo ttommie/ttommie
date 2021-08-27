@@ -89,3 +89,4 @@
 [firefox]: https://www.mozilla.org/en-US/firefox/developer/
 [linux]: https://www.linux.org/
 [lua]: https://github.com/topics/lua
+[git]: https://github.com/topics/git
