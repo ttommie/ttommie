@@ -56,10 +56,10 @@
   - [ ] Finish Learning Python
   - [x] Strengthen CSS Skills
   - [ ] Create A Website Portfolio 
+  [<img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />]
   - [ ] Learn Javascript
   - [ ] Learn Lua
   - [ ] Learn C++
-[<img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />
 ---
 
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
