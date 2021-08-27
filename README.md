@@ -49,7 +49,7 @@
 
 <br>
 <br>
-[<img align="right" alt="dog" width="40px" src="https://tenor.com/view/littlest-friends-pup-waving-timothy-winchester-cute-gif-14627108" />
+[<img align="right" alt="dog" width="40px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />
 ---
 
 ### Goals
