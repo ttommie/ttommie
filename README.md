@@ -50,13 +50,12 @@
 <br>
 <br>
 ---
-
+  [<img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />]
 ### Goals
 
   - [ ] Finish Learning Python
   - [x] Strengthen CSS Skills
   - [ ] Create A Website Portfolio 
-  [<img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />]
   - [ ] Learn Javascript
   - [ ] Learn Lua
   - [ ] Learn C++
