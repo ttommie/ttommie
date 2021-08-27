@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
 <br />
@@ -49,7 +49,7 @@
 
 <br>
 <br>
-
+[<img align="right" alt="dog" width="40px" src="https://tenor.com/view/littlest-friends-pup-waving-timothy-winchester-cute-gif-14627108" />
 ---
 
 ### Goals
