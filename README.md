@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
 <br />
@@ -72,7 +72,7 @@
 <img align="left" alt="Tommie's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttommie&show_icons=true&hide_border=true&theme=graywhite">
 
 
-[website]:
+[website]: https://findtom.me
 [steam]: https://steamcommunity.com/id/whosoever
 [html]: https://github.com/topics/html
 [css]: https://github.com/topics/css
