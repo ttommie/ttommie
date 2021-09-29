@@ -80,7 +80,7 @@
 [php]: https://github.com/topics/php
 [sql]: https://github.com/topics/sql
 [javascript]: https://github.com/topics/javascript
-[javascript]: https://github.com/topics/typescript
+[typescript]: https://github.com/topics/typescript
 [c#]: https://github.com/topics/csharp
 [lua]: https://github.com/topics/lua
 [python]: https://github.com/topics/python
