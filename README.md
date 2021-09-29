@@ -49,6 +49,7 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefox.svg" />][firefox]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][trello]
 
 <br>
 <br>
@@ -92,3 +93,4 @@
 [linux]: https://www.linux.org/
 [lua]: https://github.com/topics/lua
 [git]: https://github.com/topics/git
+[trello]: https://trello.com/
