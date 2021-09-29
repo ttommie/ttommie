@@ -27,6 +27,7 @@
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][sql]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />][javascript]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][typescript]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />][c#]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/lua.svg" />][lua]
@@ -79,6 +80,7 @@
 [php]: https://github.com/topics/php
 [sql]: https://github.com/topics/sql
 [javascript]: https://github.com/topics/javascript
+[javascript]: https://github.com/topics/typescript
 [c#]: https://github.com/topics/csharp
 [lua]: https://github.com/topics/lua
 [python]: https://github.com/topics/python
