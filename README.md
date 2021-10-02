@@ -65,7 +65,7 @@
   - [ ] Finish Learning Python
   - [x] Strengthen CSS Skills
   - [ ] Create A Website Portfolio 
-  - [ ] Learn Javascript
+  - [x] Learn Javascript
   - [ ] Learn Lua
   - [ ] Learn C++
 ---
