@@ -42,13 +42,13 @@
 
 **Most Used Tools**
 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902384608350457856/Windows.png" />][windows]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902384605871607828/VSC.png" />][vsc]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902384603296325702/VS.png" />][vs]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385056385990726/Firefox2.png" />][firefox]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902384598556737566/Linux.png" />][linux]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902384596463800330/Git.png" />][git]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902384600712609832/Trello.png" />][trello]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386763660664862/Windows.png" />][windows]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386760930168902/VSC.png" />][vsc]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386758438756362/VS.png" />][vs]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386755595042868/Firefox2.png" />][firefox]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386753728565271/Linux.png" />][linux]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386752491241512/Git.png" />][git]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386766273728574/Trello.png" />][trello]
 
 <br>
 <br>
