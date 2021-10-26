@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="findtom.me" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" />][website]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902382441182937128/Firefox.png" />][website]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
 
 <br />
