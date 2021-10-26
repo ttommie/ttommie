@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902382441182937128/Firefox.png" />][website]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383120765042719/Steam.png" />][steam]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383120765042719/Steam.png" />][steam]
 
 <br />
 <br />
@@ -23,7 +23,7 @@
 
 **Using or Learning**
 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385856822792272/HTML.png" />][html]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385856822792272/HTML.png" />][html]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385853622550558/CSS.png" />][css]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385865005883452/MySQL.png" />][sql]
 [<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385859632967710/JS.png" />][javascript]
@@ -42,13 +42,13 @@
 
 **Most Used Tools**
 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386763660664862/Windows.png" />][windows]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386760930168902/VSC.png" />][vsc]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386758438756362/VS.png" />][vs]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386755595042868/Firefox2.png" />][firefox]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386753728565271/Linux.png" />][linux]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386752491241512/Git.png" />][git]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386766273728574/Trello.png" />][trello]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386763660664862/Windows.png" />][windows]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386760930168902/VSC.png" />][vsc]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386758438756362/VS.png" />][vs]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902387379355156480/Firefox2.png" />][firefox]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386753929871360/Linux.png" />][linux]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386752147292230/Git.png" />][git]
+[<img align="left" alt="findtom.me" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386766416326696/Trello.png" />][trello]
 
 <br>
 <br>
