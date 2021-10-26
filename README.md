@@ -23,14 +23,14 @@
 
 **Using or Learning**
 
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383637054509066/HTML.png" />][html]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383635380977704/CSS.png" />][css]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383644243550218/MySQL.png" />][sql]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383639050981376/JS.png" />][javascript]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383648974712842/TS.png" />][typescript]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383633103462400/C.png" />][c#]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383646307135499/Python.png" />][python]
-[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383641479491625/Lua.png" />][lua]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385856822792272/HTML.png" />][html]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385853622550558/CSS.png" />][css]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385865005883452/MySQL.png" />][sql]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385859632967710/JS.png" />][javascript]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385870362009610/TS.png" />][typescript]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385850975928330/C.png" />][c#]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385867803475968/Python.png" />][python]
+[<img align="left" alt="tomei.vip" width="40px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385862229250058/Lua.png" />][lua]
 
 
 <br />
