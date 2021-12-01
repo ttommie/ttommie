@@ -65,7 +65,7 @@
   - [x] Strengthen CSS Skills
   - [ ] Create A Website Portfolio 
   - [x] Learn Javascript
-  - [ ] Learn Lua
+  - [x] Learn Lua
   - [ ] Learn C++
 ---
 
