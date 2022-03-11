@@ -7,7 +7,7 @@
 - Student Software Developer 📚
 - Current Intern @ Classical Conversations👨‍💻
 - I'm 20 Years Old 🧓
-- Owner of [Lucid Gaming](http://lucid-gaming.net) 💙
+- Owner of Arcane Network 💛
 
 ### Connect with me:
 
