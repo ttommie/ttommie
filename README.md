@@ -7,13 +7,6 @@
 -   I'm 22 Years Old 🧓
 -   Owner of Arcane Network 💙
 
-### Connect with me:
-
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902383120765042719/Steam.png" />][steam]
-
-<br />
-<br />
-
 ---
 
 ### Programming Languages 💻
