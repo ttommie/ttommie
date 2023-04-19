@@ -4,7 +4,7 @@
 
 -   Software Development & Database Specialist AAS 📚
 -   Current Intern @ Classical Conversations👨‍💻
--   I'm 20 Years Old 🧓
+-   I'm 22 Years Old 🧓
 -   Owner of Arcane Network 💙
 
 ### Connect with me:
