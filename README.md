@@ -49,12 +49,11 @@
   
 ### Goals
 
--   [ ] Finish Learning Python
 -   [x] Strengthen CSS Skills
 -   [ ] Create A Website Portfolio
 -   [x] Learn Javascript
 -   [x] Learn Lua
--   [ ] Learn C++
+-   [x ] Learn C++
 -   [x] Learn React
 
 ---
