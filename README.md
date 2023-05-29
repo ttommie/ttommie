@@ -53,7 +53,7 @@
 -   [ ] Create A Website Portfolio
 -   [x] Learn Javascript
 -   [x] Learn Lua
--   [x ] Learn C++
+-   [x] Learn Basics of C++
 -   [x] Learn React
 
 ---
