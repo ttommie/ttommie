@@ -46,15 +46,8 @@
   <img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />
   
   
-### Goals
-
--   [x] Strengthen CSS Skills
--   [ ] Create A Website Portfolio
--   [x] Learn Javascript
--   [x] Learn Lua
--   [x] Learn Basics of C++
--   [x] Learn React
-
+### Projects
+- Fyce Bot - A small moderation discord bot with multiple purpose commands.
 ---
 
 [website]: https://findtom.me
