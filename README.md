@@ -50,7 +50,7 @@
 
 - **Fyce Bot** - A small moderation discord bot with multi purpose commands.
 - **8 Gates** - FiveM service that designs and develops plugins for servers to use.
-- **DevFinder** - Webapp that allows users to search and view other developers github stats.  
+- **DevFinder** - Webapp that allows users to search and view other developers github stats. 
 ---
 
 [website]: https://findtom.me
