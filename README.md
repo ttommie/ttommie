@@ -46,10 +46,11 @@
   <img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />
   
   
-### Projects
-**Fyce Bot**: A small moderation discord bot with multiple purpose commands.
-**8 Gates**: FiveM service that designs and develops plugins for servers to use.
-**DevFinder**: Webapp that allows users to search and view other developers github stats.  
+### Projects 📁
+
+- Fyce Bot A small moderation discord bot with multiple purpose commands.
+- 8 Gates FiveM service that designs and develops plugins for servers to use.
+- DevFinder Webapp that allows users to search and view other developers github stats.  
 ---
 
 [website]: https://findtom.me
