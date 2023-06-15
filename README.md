@@ -43,7 +43,7 @@
 
 ---
 
-  <img align="right" alt="dog" width="150px" src="https://c.tenor.com/aCHGAKDslvkAAAAi/littlest-friends-pup.gif" />
+  <img align="right" alt="dog" width="150px" src="https://thumbs.gfycat.com/EllipticalMistyBlackfly.webp" />
   
   
 ### Projects 📁
