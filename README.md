@@ -3,6 +3,7 @@
 ### About me
 
 -   Software Development & Database Specialist AAS 📚
+-   Junior React Developer ⚛
 -   Current Intern @ Classical Conversations👨‍💻
 -   I'm 22 Years Old 🧓
 
