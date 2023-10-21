@@ -42,9 +42,6 @@
 <br>
 
 ---
-
-  <img align="right" alt="dog" width="150px" src="https://thumbs.gfycat.com/EllipticalMistyBlackfly.webp" />
-  
   
 ### Projects 📁
 
