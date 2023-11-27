@@ -45,6 +45,7 @@
   
 ### Projects 📁
 - **Todo App** : A day-to-day todo app made using electron & react.
+- **Eight Gates** : A group of developers working on variety of fivem plugins.
 
 ---
 [website]: https://findtom.me
