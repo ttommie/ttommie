@@ -45,6 +45,7 @@
   
 ### Projects 📁
 - **Eight Gates** : A group of developers working on variety of fivem plugins.
+- **Greg Project**: All-in-one discord bot created using discord.js.
 
 ---
 [website]: https://findtom.me
