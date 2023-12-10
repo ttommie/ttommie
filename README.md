@@ -2,9 +2,9 @@
 
 ### About me
 
+-   22 Years Old 🧓
 -   Software Development & Database Specialist AAS 📚
 -   Junior Software Developer 💻
--   I'm 22 Years Old 🧓
 
 ---
 
