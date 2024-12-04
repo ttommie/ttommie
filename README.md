@@ -2,9 +2,9 @@
 
 ### About me
 
--   22 Years Old 🧓
--   Software Development & Database Specialist AAS 📚
--   Junior Software Developer 💻
+- 23 Years Old 🧓
+- Software Development & Database Specialist AAS 📚
+- Junior Software Developer 💻
 
 ---
 
@@ -12,16 +12,8 @@
 
 **Using or Learning**
 
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385856822792272/HTML.png" />][html]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385853622550558/CSS.png" />][css]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385865005883452/MySQL.png" />][sql]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385859632967710/JS.png" />][javascript]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385870362009610/TS.png" />][typescript]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385850975928330/C.png" />][c#]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385867803475968/Python.png" />][python]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902385862229250058/Lua.png" />][lua]
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,mysql,cs&theme=light)](https://skillicons.dev)
 
-<br />
 <br />
 
 ---
@@ -30,42 +22,13 @@
 
 **Most Used Tools**
 
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386763660664862/Windows.png" />][windows]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386760930168902/VSC.png" />][vsc]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386758438756362/VS.png" />][vs]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902387379355156480/Firefox2.png" />][firefox]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386753929871360/Linux.png" />][linux]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386752147292230/Git.png" />][git]
-[<img align="left" alt="findtom.me" width="22px" src="https://cdn.discordapp.com/attachments/857717187799416893/902386766416326696/Trello.png" />][trello]
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,git,figma,discord,teams&theme=light)](https://skillicons.dev)
 
-<br>
 <br>
 
 ---
   
 ### Projects 📁
-- **Eight Gates** : A group of developers working on variety of fivem plugins.
 - **Greg Project**: All-in-one discord bot created using discord.js.
 
 ---
-[website]: https://findtom.me
-[steam]: https://steamcommunity.com/id/fyce
-[html]: https://github.com/topics/html
-[css]: https://github.com/topics/css
-[php]: https://github.com/topics/php
-[sql]: https://github.com/topics/sql
-[javascript]: https://github.com/topics/javascript
-[typescript]: https://github.com/topics/typescript
-[react]: https://github.com/topics/react
-[c#]: https://github.com/topics/csharp
-[lua]: https://github.com/topics/lua
-[python]: https://github.com/topics/python
-[windows]: https://www.microsoft.com/en-us/windows
-[vsc]: https://code.visualstudio.com/
-[vs]: https://visualstudio.microsoft.com/
-[notepad++]: https://notepad-plus-plus.org/downloads/
-[firefox]: https://www.mozilla.org/en-US/firefox/developer/
-[linux]: https://www.linux.org/
-[lua]: https://github.com/topics/lua
-[git]: https://github.com/topics/git
-[trello]: https://trello.com/
