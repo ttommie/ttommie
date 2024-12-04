@@ -12,9 +12,7 @@
 
 **Using or Learning**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,mysql,cs&theme=light)](https://skillicons.dev)
-
-<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,mysql,cs,lua&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -24,11 +22,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,git,figma,discord,teams&theme=light)](https://skillicons.dev)
 
-<br>
-
 ---
   
 ### Projects 📁
-- **Greg Project**: All-in-one discord bot created using discord.js.
-
----
+- **steam lens**: a website used to find steam profile details
+- **greg project**: a simple multi-functional discord bot
