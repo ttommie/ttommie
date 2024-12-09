@@ -4,7 +4,7 @@
 
 - 23 Years Old 🧓
 - Software Development & Database Specialist AAS 📚
-- Junior Software Developer 💻
+- Junior Software Developer 💫
 
 ---
 
