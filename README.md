@@ -1,4 +1,4 @@
-## Hello, I'm Aaron (tommy) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello, I'm Aaron <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### About me 👤
 
