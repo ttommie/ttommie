@@ -26,5 +26,4 @@
   
 ### Projects 📁
 - **steam lens**: a website used to find steam profile details
-- **greg project**: a simple multi-functional discord bot
 - **fivem development**: currently an _unnamed project_ focused on creating a semi-serious roleplay server
