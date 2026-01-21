@@ -25,4 +25,5 @@
 ---
   
 ### Projects 📁
-- **steam lens**: a website used to find steam profile details
+- **chaos rp**: a fivem semi serious roleplay server
+
